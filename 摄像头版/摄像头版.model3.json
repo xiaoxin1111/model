@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "免费1.moc3",
+		"Textures": [
+			"免费1.16384/texture_00.png"
+		],
+		"Physics": "免费1.physics3.json",
+		"DisplayInfo": "免费1.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
